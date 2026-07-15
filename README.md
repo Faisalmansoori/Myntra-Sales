@@ -98,7 +98,7 @@ CSV file located in `/Data/` folder (RawData)
 - top-notch ratings
 - price collation
 
-![Myntra Sales Dashboard] (image/dashboard.png)
+![Myntra Sales Dashboard](image/dashboard.png)
 
 
 ---
