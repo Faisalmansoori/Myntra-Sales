@@ -1,4 +1,4 @@
-#Myntra
+# Myntra
 
 Analyze Myntra product's data and develop an interactive retail analytics dashboard on the basis of category to understand Brand performance & Consumer preference that helps in understanding for better business decision-making.
 
@@ -98,7 +98,7 @@ CSV file located in `/Data/` folder (RawData)
 - top-notch ratings
 - price collation
 
-![Myntra Sales Dashboard](images/dashboard.png)
+![Myntra Sales Dashboard] (image/dashboard.png)
 
 
 ---
