@@ -1,8 +1,8 @@
-# Myntra
+# 👕 Myntra 👖
 
 Analyze Myntra product's data and develop an interactive retail analytics dashboard on the basis of category to understand Brand performance & Consumer preference that helps in understanding for better business decision-making.
 
-## Table of Contents
+## 📌 Table of Contents
 
 - <a href="#overview">Overview</a>
 - <a href="#problem-statement">Problem Statement</a>
