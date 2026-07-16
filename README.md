@@ -43,7 +43,7 @@ CSV file located in `/Data/` folder (RawData)
 
 ---
 
-<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+<h2><a class="anchor" id="data-cleaning-preparation"></a>Data Cleaning & Preparation</h2>
 
 - Removed unnecessary column such as:-
     * image_link
